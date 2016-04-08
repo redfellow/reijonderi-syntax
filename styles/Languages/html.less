@@ -1,0 +1,23 @@
+// ---------------------------------------------------------------------------
+//  Languages: HTML
+// ---------------------------------------------------------------------------
+
+    .text.html {
+        .meta.tag {
+            // HTML: < />
+            .punctuation.tag { color: @color-grey; }
+
+            // HTML: eg. div, figure, a
+            .tag.name { color: @color-light_grey; }
+
+            // HTML: eg. id, class, title
+            .attribute-name { color: @color-white_dark; }
+        }
+
+		.text .string,
+		.source .string {
+			color: @color-poison;
+		}
+
+        .string .embedded { color: @color-white_dark; }
+    }

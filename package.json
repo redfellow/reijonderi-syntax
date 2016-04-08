@@ -1,0 +1,20 @@
+{
+  "name": "reijonderi-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "A high contrast syntax for HTML/JS/CSS",
+  "keywords": [
+    "high contrast",
+    "syntax theme",
+    "yellow",
+    "green",
+    "gray"
+  ],
+  "repository": "https://github.com/atom/reijonderi-syntax",
+  "license": "MIT",
+  "readme": "A high contrast syntax for HTML/JS/CSS\n",
+  "readmeFilename": "README.md",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
