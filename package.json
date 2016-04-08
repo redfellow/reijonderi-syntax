@@ -10,7 +10,7 @@
     "green",
     "gray"
   ],
-  "repository": "https://github.com/atom/reijonderi-syntax",
+  "repository": "https://github.com/rnyberg/reijonderi-syntax",
   "license": "MIT",
   "readme": "A high contrast syntax for HTML/JS/CSS\n",
   "readmeFilename": "README.md",
