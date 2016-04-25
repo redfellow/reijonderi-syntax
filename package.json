@@ -1,7 +1,7 @@
 {
   "name": "reijonderi-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A dark & yellow syntax for HTML/JS/CSS",
   "keywords": [
     "high contrast",
