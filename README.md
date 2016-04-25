@@ -1,1 +1,1 @@
-A high contrast syntax for HTML/JS/CSS\n
+A dark & yellow syntax for HTML/JS/CSS\n
